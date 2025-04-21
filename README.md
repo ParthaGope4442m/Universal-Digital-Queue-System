@@ -47,7 +47,18 @@ The **Universal Digital Queue System** is a web-based platform that allows users
 
 ## 📷 Screenshots
 
+Here are some screenshots of the platform in action:
 
+### 🖼 Home Page(Light Mode)
+![Home Page](https://drive.google.com/uc?export=view&id=1tYWtuqsDdOxuBlocknBGs2cfPotPPvuh)
+
+### 🖼 Home Page(Dark Mode)
+![Token Booking](https://drive.google.com/uc?export=view&id=1JSQiqH5t747Rlc35PyX072EKxyxW0PVj)
+
+### 🖼 Token Booking Page
+![Queue Status](https://drive.google.com/uc?export=view&id=1UlOCZjznt17Jmy7NYrOGm-3x6XlGb1_w)
+
+> 📌 Note: We’ll keep updating this section with more screenshots as development progresses and new features roll out.
 
 ## 📌 Future Enhancements
 
